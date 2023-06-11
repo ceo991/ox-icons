@@ -1,0 +1,28 @@
+<svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_5400_207298)">
+<g filter="url(#filter0_f_5400_207298)">
+<path d="M15.1423 12.9378L24.9768 20.1398L15.0441 25.8044L5.19688 20.2876L15.1423 12.9378Z" fill="#121212"/>
+</g>
+<g opacity="0.3" filter="url(#filter1_f_5400_207298)">
+<path d="M12.5583 15.8654C14.0808 14.7403 16.1686 14.7358 17.696 15.8543C20.1895 17.6804 19.9723 21.4374 17.2846 22.9702L17.1717 23.0346C15.8536 23.7863 14.232 23.7925 12.9081 23.0508C10.2082 21.5382 9.968 17.7797 12.4538 15.9426L12.5583 15.8654Z" fill="#121212"/>
+</g>
+<path d="M7.29064 9.80899C7.03361 9.96628 6.99077 10.2705 7.00147 10.4029L15.5 15L23.9171 10.4015C23.9171 9.97193 23.6654 9.69652 23.5396 9.6125C21.0754 8.17724 16.0672 5.26372 15.7479 5.09179C15.4286 4.91986 15.1564 5.02833 15.0602 5.10406C12.5774 6.60684 7.54767 9.6517 7.29064 9.80899Z" fill="#E0E0E0"/>
+<path d="M7.00146 10.4028L7.0807 20.1227C7.0807 20.5528 7.21923 20.7277 7.28849 20.7614C9.7034 22.047 14.6413 24.6703 15.0735 24.8789L15.5 24.9999V14.9999L7.00146 10.4028Z" fill="#D0D0D0"/>
+<path d="M23.8545 20.3586C23.8753 17.2186 23.9171 10.8312 23.9171 10.4016L15.5 15.0001V25.0001L16.1738 24.9C18.5868 23.5259 23.4559 20.753 23.6283 20.6539C23.8006 20.5549 23.8509 20.4158 23.8545 20.3586Z" fill="#EAEAEA"/>
+</g>
+<defs>
+<filter id="filter0_f_5400_207298" x="-34.8031" y="-27.0623" width="99.7799" height="92.8667" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="20" result="effect1_foregroundBlur_5400_207298"/>
+</filter>
+<filter id="filter1_f_5400_207298" x="5.72766" y="10.0186" width="18.7128" height="18.5842" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="2.5" result="effect1_foregroundBlur_5400_207298"/>
+</filter>
+<clipPath id="clip0_5400_207298">
+<rect width="30" height="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>
